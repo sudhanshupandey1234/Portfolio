@@ -82,7 +82,7 @@
         status.classList.add("err");
         return;
       }
-      var subject = encodeURIComponent("Portfolio Contact — from " + name);
+      var subject = encodeURIComponent("Portfolio Inquiry - Sudhanshu Pandey");
       var body = encodeURIComponent("Hi Sudhanshu,\n\n" + message + "\n\n— " + name + "\n" + email);
       window.location.href = "mailto:" + OWNER_EMAIL + "?subject=" + subject + "&body=" + body;
       status.textContent = "Opening your email app — your message is addressed to " + OWNER_EMAIL + ". Just press send there.";
