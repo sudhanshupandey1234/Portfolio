@@ -183,6 +183,7 @@ a.contact-card:hover{border-color:var(--border-strong);transform:translateX(4px)
 .cc-icon{width:46px;height:46px;flex:none;display:grid;place-items:center;border-radius:12px;background:rgba(59,130,246,.13);border:1px solid rgba(59,130,246,.3);font-size:1.15rem}
 .cc-arrow{margin-left:auto;color:var(--cyan);font-size:1.1rem}
 .contact-note{color:var(--muted);font-size:.92rem;padding:4px 2px}
+.email-me-btn{justify-content:center;padding:15px 26px;font-size:1rem;min-height:52px}
 .contact-form{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:30px}
 .contact-form h3{margin-bottom:18px;font-size:1.2rem}
 .contact-form label{display:block;font-size:.88rem;font-weight:600;margin:16px 0 7px}
