@@ -12,11 +12,9 @@ Built for the InAmigos Foundation AI Web Development Internship — Task 1 (Name
 - Email: pandeysudhansuhu010@gmail.com
 - Phone: +91 96704 04748
 - GitHub: https://github.com/sudhanshupandey1234
+- LinkedIn: https://www.linkedin.com/in/sudhanshu-pandey-668a4336a
 - BuildNext: https://buildnextcommunity.in
-
-## Add your LinkedIn
-In `index.html`, search for `LINKEDIN` — there is a ready-made contact card commented out.
-Paste your real LinkedIn URL, remove the comment markers and the `hidden` attribute.
+- Live site: https://sudhanshupandey1234.github.io/Portfolio/
 
 ## Publish free (any one)
 1. **Netlify Drop** — go to app.netlify.com/drop and drag this folder. Live URL in ~30 seconds.
