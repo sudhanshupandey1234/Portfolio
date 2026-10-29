@@ -64,7 +64,7 @@
   // Contact form -> mailto (no backend, nothing is stored)
   var form = document.getElementById("contactForm");
   var status = document.getElementById("formStatus");
-  var OWNER_EMAIL = "pandeysudhansuhu010@gmail.com";
+  var OWNER_EMAIL = "pandeysudhanshu010@gmail.com";
   if (form) {
     form.addEventListener("submit", function (e) {
       e.preventDefault();
