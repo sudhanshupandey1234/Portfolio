@@ -9,7 +9,7 @@ Built for the InAmigos Foundation AI Web Development Internship — Task 1 (Name
 - `script.js` — mobile nav, scroll reveal, active-section highlighting, contact form (mailto)
 
 ## Contact details on the site
-- Email: pandeysudhansuhu010@gmail.com
+- Email: pandeysudhanshu010@gmail.com
 - Phone: +91 96704 04748
 - GitHub: https://github.com/sudhanshupandey1234
 - LinkedIn: https://www.linkedin.com/in/sudhanshu-pandey-668a4336a
